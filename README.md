@@ -13,7 +13,7 @@ Notably, I have added **Governance, Risk & Compliance (GRC) takeaways** for each
 - **Kubernetes ReplicaSets** – Configured ReplicaSets to maintain desired pod counts, enabling automatic scaling and self-healing for high availability.  
 - **Kubernetes Deployments** – Managed application lifecycles with Deployments, performing rolling updates and ensuring declarative, version-controlled rollouts.  
 - **Kubernetes Rolling & Rollback Updates** – Executed rolling updates for zero-downtime releases and performed safe rollbacks to previous versions when issues arose.  
-- **Kubernetes Services** – Exposed applications internally and externally using ClusterIP, NodePort, and LoadBalancer services, and explored service discovery through DNS.
+- **Kubernetes Services** – Learned about services for networking and service discovery.
 
 ---
 
