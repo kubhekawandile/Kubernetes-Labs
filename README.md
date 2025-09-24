@@ -19,7 +19,8 @@ Notably, I have added **Governance, Risk & Compliance (GRC) takeaways** for each
 
 ## Repository Structure
 
-- **writeup_1.md … writeup_4.md** – Detailed documentation of each lab, including objectives, key activities, outcomes, and personal GRC takeaways.  
+- **writeup_1.md … writeup_4.md** – Detailed documentation of each lab, including objectives, key activities, outcomes, and personal GRC takeaways.
+- **Lab 1 - 3 are are all included in writeup_1.md, the rest are seperate.** 
 - **evidence/** – Screenshots and supporting evidence for the labs.
 
 ---
