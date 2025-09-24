@@ -27,7 +27,7 @@
 
 ---
 
-# GRC Key Takeaways
+## GRC Key Takeaways
 
 - **Controlled Rollouts: Rolling updates reduce operational risk by updating pods gradually, preventing complete downtime and minimizing impact on end-users.**
 - **Change Management: Using kubectl edit and version-controlled manifests ensures updates are auditable and aligned with organizational change policies.**
@@ -37,7 +37,7 @@
 
 ---
 
-# Lessons Learned
+## Lessons Learned
 
 - **Incremental Updates: Gained hands-on understanding of how rolling updates maintain service availability by upgrading pods in controlled batches.**
 - **Deployment Strategies: Learned the difference between RollingUpdate and Recreate strategies, and when to use each in real-world scenarios.**
