@@ -13,7 +13,9 @@ This repository contains my hands-on introduction to Kubernetes through KodeKlou
 
 
 ## Repository Structure
-- **writeup.md** – Detailed documentation of the labs, objectives, and outcomes.  
-- **evidence/** – Screenshots supporting the completed exercises.  
+- **writeup_1.md** – Detailed documentation of the labs, objectives, and outcomes.
+- **writeup_2.md**  - Detailed documentation of the second part of the labs, same structure as {writeup_1.md}. 
+- **evidence/** – Screenshots supporting the completed exercises.
+
 
 This repository demonstrates foundational Kubernetes skills—covering workload management, scaling, updates, and service exposure—built entirely through interactive labs on the **KodeKloud** platform.
