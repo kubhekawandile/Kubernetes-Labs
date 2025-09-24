@@ -19,7 +19,7 @@
 
 - **Updated the existing Deployment image using kubectl edit deploy <deployment-name> to apply a new version.**
 ![updates](Evidence/update_image.png)
-![updates](Evidence/v3-image.png)
+![updates](Evidence/v3_image.png)
 
 - **Changed the deployment strategy from RollingUpdate to Recreate.**
 ![updates](Evidence/current.png)
