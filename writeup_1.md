@@ -12,8 +12,8 @@ Explored the cluster layout and practiced essential `kubectl` commands.
   kubectl get nodes -o wide
   ```
 - Identified control-plane and worker nodes, gaining comfort with the CLI and cluster structure.
-![Nodes](Get_Nodes.png)
-![Nodes](OS_Flavour.png)
+![Nodes](Evidence/Get_Nodes.png)
+![Nodes](Evidence/OS_Flavour.png)
 
 
 ---
@@ -40,7 +40,7 @@ Learned that Pods are the smallest deployable units in Kubernetes.
 
 - # Deleted pods to observe lifecycle behavior.
 ![delete](Evidence/Delete_pod.png)
-![delete](Evidence/Desired_always-run.png)
+![delete](Evidence/Desired_always_run.png)
 
 - # Intentionally deployed a pod with an invalid image, checked it's status, and then corrected it in place using:
 ![redis](Evidence/Redis_Pod.png)
