@@ -13,8 +13,7 @@ This repository contains my hands-on introduction to Kubernetes through KodeKlou
 
 
 ## Repository Structure
-- **writeup_1.md** – Detailed documentation of the labs, objectives, and outcomes.
-- **writeup_2.md**  - Detailed documentation of the second part of the labs, same structure as {writeup_1.md}. 
+- **writeup_1../_2../_3../_4.md** – Detailed documentation of the labs, objectives, and outcomes.
 - **evidence/** – Screenshots supporting the completed exercises.
 
 
